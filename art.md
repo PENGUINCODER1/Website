@@ -7,6 +7,6 @@
 ## Other people's art
 * None
 
-# ========================
+#  
 
 * [Exit](README.md)
