@@ -1,4 +1,4 @@
 # Database
-* [Art I Made](art.md)
+* [Art Database](art.md)
 # Misc
 * [About](about.md)
