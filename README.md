@@ -1,2 +1,2 @@
-![logo](dinostudios/1FB7EA81-8BD4-46E1-8812-DCDCABE93B1B.jpeg)
+![logo](/3B1E7545-A48B-4F41-BA71-F5C6806377FC.jpeg)
 website for dino studios
