@@ -1,5 +1,5 @@
 # Art Database
 ## Art shown: Lighting
 
-![ART](/art/assets/D4152AB9-FE8D-4A12-985E-36383412525F.png)
+![ART](/art/assets/D7C333D0-1FAD-4B25-99DD-47248B5AE714.png)
 [Back](/art.md)
