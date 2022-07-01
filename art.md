@@ -1,5 +1,5 @@
 # Art Section
-### This is all the art I have made, as well as some others people may have posted onto here!
+### This is a little showcase of art that has been published by me or others onto this specific part of the Eclipse Base
 
 ## Art I've made
 * [Lighting](art/AMnoname1.md)
