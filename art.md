@@ -5,7 +5,7 @@
 * [Lighting](art/AMnoname1.md)
 
 ## Other people's art
-* None
+* N/A
  
 
 [Exit](README.md)
