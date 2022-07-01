@@ -1,5 +1,5 @@
 # About Page
-### This is the about page I suppose
+### This is the about page, already stated above.
 ## About
 * This website is dumb database, hosting the most random stuff ever. Don't rely on this to get you through a test!
 
