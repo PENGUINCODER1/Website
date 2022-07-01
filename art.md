@@ -1,0 +1,8 @@
+# Art Section
+### This is all the art I have made, as well as some others people may have posted onto here!
+
+## Art I've made
+* None
+
+## Other people's art
+* None
